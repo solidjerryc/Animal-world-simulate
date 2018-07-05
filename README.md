@@ -1,2 +1,2 @@
 # Animal-world-stimulate
-A stimulation of  a game from movie Animal World 
+A simulation of  a game from movie Animal World 
